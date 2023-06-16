@@ -1,156 +1,58 @@
+# Abstract
+
+Oysters play a pivotal role in the health and productivity of marine ecosystems. Their unique ability to filter water, provide habitat, and contribute to nutrient cycling makes them invaluable in establishing ecological baselines for sustainable aquaculture practices. The burgeoning field of oyster restoration for aquaculture has recognised the potential of these bivalves in mitigating environmental impacts, enhancing biodiversity, and promoting ecosystem resilience. However, the establishment of ecological baselines is a complex task, requiring a comprehensive understanding of oyster biology, population dynamics, and their interactions with the surrounding environment. Recent studies have begun to explore the use of archaeological shell middens and historical oyster reefs as potential baselines, providing insights into the natural state of these ecosystems prior to significant human intervention.
+Here we use information on oyster growth rates from over 2,000 analysed oyster shells dating to 7,400–5,500 cal BP and the largest archaeological growth rate dataset of molluscs yet, to decouple anthropogenic from environmental impacts over a large study region. This is a bottom-up model of Danish shell midden sites, including areas with few remaining wild European flat oysters (*Ostrea edulis*).
+Our data show definitive control of oyster sizes through human harvesting already during the Mesolithic period, coupled with long-term sustainability and indications of sedentary lifestyles that required the management of fishing grounds.
+
+- long-term history, deep links
+- necessity to protect these sites from sea level change and agricultural erosion.
+ 
 # Introduction
+## Biological and economic functions of oysters
 
-Oysters play a pivotal role in the health and productivity of marine ecosystems. Their unique ability to filter water, provide habitat, and contribute to nutrient cycling makes them invaluable in establishing ecological baselines for sustainable aquaculture practices. The burgeoning field of oyster restoration for aquaculture has recognized the potential of these bivalves in mitigating environmental impacts, enhancing biodiversity, and promoting ecosystem resilience. However, the establishment of ecological baselines is a complex task, requiring a comprehensive understanding of oyster biology, population dynamics, and their interactions with the surrounding environment. Recent studies have begun to explore the use of historical oyster reefs as potential baselines, providing insights into the natural state of these ecosystems prior to significant human intervention.
-
-Here were use the information from over 2,000 analysed oyster shells dating to the mid-Holocene, 
-
-## The importance of oysters
-
-Oysters, as ecosystem engineers, are able to significantly influence the ecological dynamics and economic sustainability in Coastal regions, including the European Atlantic coast and in particular estuarine areas. These organisms render unique ecological services and enhance the seafood industry and ecotourism. 
-
-The pivotal role of oysters in these ecosystems is primarily due to their robust filtration capacity. Each oyster can filter up to 200 litres of water daily, serving as an organic particle and pollutant extractor. This process improves water transparency, encourages aquatic plant photosynthesis, and curbs eutrophication by limiting nitrogen and phosphorus. This restricts harmful algal bloom development and subsequent hypoxia, thereby maintaining a biologically diverse and healthy marine environment.
-
-Moreover, oysters' tendency to establish reefs contributes to ecological complexity and biodiversity by providing crucial habitats for various marine species. These reefs, acting as breeding and nursery areas, support ecosystem stability and resilience. The physical presence of reefs also mitigates shoreline erosion and acts as a storm buffer, which is increasingly important considering climate change.
-
-Economically, the oyster sector is vital to the seafood industry in these regions. In the UK, for example, oysters significantly contribute to culinary traditions and economic health. Oyster reef conservation and restoration also spur ecotourism, offering additional revenue for local communities. Nevertheless, the industry's viability relies on maintaining healthy ecosystems, which face threats like overharvesting, disease, pollution, and habitat destruction.
-
+Oysters, as ecosystem engineers, are able to significantly influence the ecological dynamics and economic sustainability in coastal regions, including the European Atlantic coast and in particular estuarine areas, enhancing the seafood industry and ecotourism, offering additional revenue for local communities.
+The pivotal role of oysters in these ecosystems is primarily due to their robust filtration capacity. Each oyster can filter up to 200 litres of water daily, serving as an organic particle and pollutant extractor. This process improves water transparency, encourages aquatic plant photosynthesis, and curbs eutrophication by limiting nitrogen and phosphorus, thereby maintaining a biologically diverse and healthy marine environment.
+Moreover, oysters' tendency to establish reefs contributes to ecological complexity and biodiversity by providing crucial habitats for various marine species. The physical presence of reefs also mitigates shoreline erosion and acts as a storm buffer, which is increasingly important considering modern climate change.
 The vital ecological and economic roles of oysters necessitate strategic conservation and sustainable management efforts in these regions to preserve their ecological functions and ensure the longevity of supported human industries, thus balancing ecological health with human prosperity.
 
-  
-
-## Overfishing and climate change
+## Overfishing
 
 Historically abundant oysters have seen considerable declines globally, due to overfishing and climate change. In particular European industrial-scale harvesting in the 19th and early 20th centuries critically reduced oyster populations of the North Sea.
+>[!DANGER] Add figure here for actual numbers of reduction
 
-Overfishing has diminished both the size and quantity of oysters and additionally modified oyster reef structure, impacting their ecological roles and benefits to other marine species.
-
+These populations are now being restored (citations) after overfishing diminished both the size and quantity of oysters and additionally modified oyster reef structure, impacting their ecological roles and benefits to other marine species.
 Climate change intensifies these effects through elevated sea temperatures, ocean acidification, and frequent extreme weather events.
-
 These historical and ongoing stresses have altered the modern baseline of oyster populations, consequently modifying restoration targets. This means that our perception of a healthy oyster population is based on a significantly depleted baseline. Hence, it is essential to incorporate historical baselines and the accumulative impacts of human activities when setting restoration goals.
+The decline of oyster populations along the European Atlantic Coast has brought up significant ecological and economic concern. Over the last century, these regions have faced a marked depletion of native oyster populations. Specifically, *Ostrea edulis*, commonly known as the European flat oyster, has experienced a dramatic decline.
+One example comes from the Wadden Sea, which is now characterised by its soft-sediment tidal flats. A century ago, however, complex, three-dimensional habitats were provided by oyster banks (Lotze 2005). These diversified the Wadden Sea underwater landscape and provided diverse habitats for a variety of species which depended on hard substrates for protection or food supply. For example, oyster banks once supported rich communities of sponges, sea anemones, hydroids, worms, sea urchins and other species (Reise 1990). With the depletion of oysters Wadden Sea ecosystem's ability to provide high water quality and complex habitats was hugely reduced, leading to the tidal flats we know today (Fig. 4; Reise et al. 1989; Michaelis and Reise 1994).
 
-## Decline of oyster populations
-
-The decline of oyster populations in the Western Baltic Sea, the UK's coastal regions, and the European Atlantic Coast has elicited significant ecological and economic concern. Over the last century, these regions have faced a marked depletion of native oyster populations. Specifically, Ostrea edulis, commonly known as the European flat oyster, has experienced a dramatic decline. 
-
-  
-
-### From Heike Lotze 2005
-
-The dominant feature of the Wadden Sea are its softsediment tidal flats. A century ago, however, complex, three-dimensional habitats were provided by oyster banks. These diversified the Wadden Sea landscape and provided diverse habitats for a variety of species which depended on hard substratum, protection or food supply. For example, oyster banks once supported rich communities of sponges, sea anemones, hydroids, worms, sea urchins and other species (Reise 1990). Most habitat-building species were heavily exploited or destroyed directly or indirectly by fisheries during the 20th century. With the loss of their hosts, associated species disappeared as well (Reise et al. 1989).
-
-Because of their reef-formingand filtration capacity, depletion of oystersreduced the ecosystem_s ability to provide highwater quality and complex habitats.
-
-Plentiful sea moss stands used to be common on oyster banks and mussel shells, but were dredged and marketed for decoration purposes until the 1950s (Fig. 4; Reise et al. 1989; Michaelis and Reise 1994).
-
-  
-
-## Restoration efforts
-
+## Restoration efforts and Challenges in establishing accurate baselines
 In light of these challenges, several restoration and repopulation efforts are currently underway. The Native Oyster Restoration Alliance (NORA) and the European Union's Horizon 2020 program have initiated projects aimed at rebuilding the lost oyster reefs and enhancing the population of native oysters in these regions.
-
-NORA, in particular, has undertaken various initiatives across Europe, including the UK and the Baltic Sea region. These initiatives encompass breeding programs, reef restoration projects, and disease management strategies. In the UK, a notable project is the Solent Oyster Restoration Project, which aims to restore five million oysters in the Solent straits over five years.
-
-The Horizon 2020 program has also funded multiple projects for oyster restoration, including the "RESTORE" project. This project seeks to rebuild self-sustaining populations of the European flat oyster across its former range. The initiative focuses on comprehensive restoration, incorporating oyster breeding, disease control, and reef construction.
-
-These initiatives underscore the importance of a multidisciplinary approach that combines ecological, social, and economic aspects to restore oyster populations effectively. It is crucial to continue such endeavors to halt and reverse the decline of oyster populations in these historically important regions, ensuring the sustainability of these ecosystems and the industries they support.
-
-## Challenges in establishing accurate baselines
-
-Establishing reliable baselines for ecological restoration, such as that of the European flat oyster in the North Sea, is challenging when relying solely on modern reference data. This is due to the significant loss of oyster beds in areas like the German Bight and the severe degradation of remaining populations. The lack of comprehensive ecological baselines and dependable data on previous biogenic reef structures in the sublittoral zone further complicates the issue. Therefore, the success of restoration efforts, which aim to enhance ecosystem functions and services including biodiversity, habitat complexity, and water quality, is contingent upon the existence of suitable habitat conditions that support a stable oyster population.
-
-  
-
-## Shifting baseline syndrome
-
-  
-
-Shifting Baseline Syndrome refers to the phenomenon where changes in the environment are measured against personal or generational experiences, rather than against an objective standard. This can lead to a gradual acceptance of environmental degradation as each generation redefines what is "normal" or "natural" based on their experiences.
-
-  
-
-For example, consider the size of Northern European oysters. If overfishing and environmental changes have led to a significant reduction in oyster size over several generations, a young marine biologist might consider the smaller oysters they encounter as the standard size. They may not realize that oysters were significantly larger in the past. This perception shift can affect conservation efforts, as the targets for restoration may be set too low, aiming to achieve a "normal" that is already a state of degradation.
-
-  
+However, establishing reliable baselines for ecological restoration, such as that of the European flat oyster in the North Sea, is challenging when relying solely on modern reference data, which is the result of gradual and intergenerational decline in conditions, often referred to as the shifting baseline syndrome. Shifting Baseline Syndrome refers to the phenomenon where changes in the environment are measured against personal or generational experiences, rather than against an objective standard. This can lead to a gradual acceptance of environmental degradation as each generation redefines what is "normal" or "natural" based on their experiences.
+Therefore, the success of restoration efforts, which aim to enhance ecosystem functions and services including biodiversity, habitat complexity, and water quality, is contingent upon a comprehensive understanding of oyster fishery before historical overfishing.
 
 ## Research on prehistoric and historic oyster fishing
 
 Marine ecosystems are particularly susceptible to the shifting baseline syndrome. This is due to the largely unknown history of the marine ecosystem change.
-
 To address this, researchers are increasingly turning to palaeoecological, archaeological, and historical evidence to understand this history. These studies are revealing the timing, direction, magnitude, and drivers of change within marine systems over past decades, centuries, and millennia. They are also shedding light on the profound impacts that our terrestrial and marine activities have had on the structure and functioning of marine ecosystems.
+Comparing historical (1878-1935) and recent (1968-2010) records, zu Ermgassen et al. (2012) revealed a 64% decline in oyster habitat extent and an 88% decrease in biomass in US estuaries. [Lotze](2005%20Lotze.pdf) (2005) summarises the historical data on Oyster fishing in the Wadden Sea (1770–1930) near Jutland, showing how annual oyster landings drastically increased to over 5 millions in the 1860s and then dropped to only a small fraction by the 1880 until their eventual collapse by the mid-20th century. Nowadays, the only surviving natural population of *O. edulis* in the North Sea is found in large numbers in the Limfjord of Denmark, with small and endangered natural populations in Norway and Sweden (Hayes).
+Using surveys and extensive dating of shell middens along the Dornoch Firth and Moray Firth system, Scotland, Fariñas-Franco et al. (2018) provide evidence for the prehistoric and historic presence of the European oyster. Their findings suggest a persistent O. edulis population in these areas until the 19th century. 
 
-### 2012 zu Ermgassen et al.
+Archaeological oysters also provide metric information on past ecologies. For instance, oyster sizes are used as a proxy for examining historical trajectories of coastal ecosystems and to understand the stability and resilience of oyster fisheries over time (cite Campbell). The use of prehistoric marine shell sizes has helped to better understand the sustainable long-term use of oyster beds. Rick et al (2016) used oyster shell sizes from Chesapeake Bay to show that Native American fisheries were focused on nearshore oysters and were likely harvested at a rate that was sustainable over centuries to millennia (∼3,500 y), despite changing Holocene climatic conditions and sea-level rise. Chesapeake Bay oyster populations have declined dramatically since then, making restoration and conservation challenging. Using archaeological oyster sizes, Thompson et al. (2020) concluded that oyster fisheries remained resilient with multiple stable states over the last 5000 years before the 1900s, despite demographic and socio-economic shifts.
+The case studies above illustrate how archaeological information can provide an important perspective and substantial amounts of first-hand measurable information on the long-term development of oyster fishing across millennia and through changing environmental conditions.
 
-Zu Ermgassen et al. (2012) conducted a century-long assessment of marine habitat-forming species, focusing on wild native oyster abundance in the United States. They compared historical (1878-1935) and recent (1968-2010) records, covering 39 and 51 estuaries respectively. The study revealed a 64% decline in oyster habitat extent and an 88% decrease in biomass, suggesting that current area measures may conceal substantial habitat degradation. The research underscores the profound influence of historical oyster fishing practices on the decline of U.S. oyster populations.
-
-### 2005 Lotze
-
-[Lotze](2005%20Lotze.pdf) (2005) summarises the historical data on Oyster fishing in the Wadden Sea (1770–1930) near Jutland, showing how annual oyster landings drastically increased to over 5 millions in the 1860s and then dropped to only a small fraction by the 1880 until their eventual collapse by the mid-20th century.
-
-## Similar cases for north sea during 1800s?
-
-### Hayes
-
-Despite measures to protect Europe's oyster population from overexploitation, oyster fisheries have continued to decline dramatically. In fact, most natural populations of the European oyster went extinct in the North Sea during the 1940s. 
-
-Nowadays, the only surviving natural population of *O. edulis* in the North Sea is found in large numbers in the Limfjord of Denmark. However, the majority of the population is found in commercial oyster farms on the European Atlantic coast. There are also very small and endangered natural populations in Norway and Sweden.
-
-## Archaeological data
-
-### Fariñas-Franco et al.
-
-Using surveys and extensive dating of shell middens along the Dornoch Firth and Moray Firth system, Scotland, Fariñas-Franco et al. (2018) provide evidence for the prehistoric and historic presence of the European oyster. Their findings suggest a persistent O. edulis population in these areas until the 19th century. Given the suitable environmental conditions, these insights underscored the potential for successful oyster reintroduction, contributing to the ecological baseline necessary for future restoration efforts.
-
-### 2016 Rick et al.
-
-The use of prehistoric marine shell sizes has helped to better understand the sustainable long-term use of oyster beds. Rick et al (2016) used shells from Chesapeak Bay to show that Native American fisheries were focused on nearshore oysters and were likely harvested at a rate that was sustainable over centuries to millennia (∼3,500 y), despite changing Holocene climatic conditions and sea-level rise. Chesapeake Bay oyster populations have declined dramatically since then, making restoration and conservation challenging. The older Native American fisheries thus provide an important historical baseline for understanding oyster populations before overfishing.
-
-### 2020 Thompson et al.
-
-Thompson et al. (2020) investigated the structure of oyster reef ecosystems from initial human harvesting to the modern era by measuring 37,805 oyster shells from archaeological sites along the Atlantic Coast of the United States. They found that oyster size even increased over time and their size distributions across sites were nonrandom, which they attributed to processes related to Native American fishing rights and environmental variability. The study revealed that oyster fisheries were resilient and experienced multiple stable states over the last 5000 years before the 1900s, despite population growth and shifts in political organisation and changing economies.
-
-## Leading to danish archaeological data 
-
-The case studies above illustrate how archaeological information can provide an important perspective and substantial amounts of first-hand information on the long-term development of oyster catchments across millennia and changing environmental conditions.
-
-  
-
-##   Compare the research methods and findings
-
-While oyster sizes are usually implied to be mainly affected by human harvesting pressure (studies above but more can be added), the caveat of environmental changes is also included. Alas, few attempts are made to quantify how much each factor (harvesting pressure and environmental changes) affects size. By adding the biological age of oysters as a measure, we can understand whether changes in their size are due to natural environmental changes or human activities. Like tree rings, oyster shells have yearly markers that help us know their age. If we find that both small and large shells are about the same age, it might mean that changes in the environment (e.g. changes in salinity, temperature, or nutrient availability) are causing the oysters to grow more slowly and stay small. However, if we find that the oysters are getting younger on average over time and also getting smaller, it could mean that people are harvesting them too much. When people harvest oysters heavily, they often take the larger, older ones or remove the oysters before they can grow large. This would result in the oysters in the area being, on average, both younger and smaller.
-
-  
-
-Since environmental changes have been shown to have a strong control on shellfish populations, it is crucial to quantify their influence, to better understand and integrate palaeo-ecological information derived from the oyster shells.
-
-Being able to decouple both factors in the interpretation of oyster size, further improves our understanding of the sustainable use of oyster beds by pre-industrial coastal populations and emphasis their role as ecological archives in the guidance of modern economic uses of oyster beds.
+While oyster sizes are usually implied to be mainly affected by human harvesting pressure, the caveat of environmental changes is also included. Alas, few attempts are made to quantify how much each factor (harvesting pressure and environmental changes) actually affects size. 
+But by adding the biological age of oysters as a measure, one can understand whether changes in their size are due to natural environmental changes or human activities. Like tree rings, oyster shells have regular markers that help us determine their age. If we find that both small and large shells are about the same age, it might mean that changes in the environment (e.g. changes in salinity, temperature, or nutrient availability) are causing the oysters to grow more slowly and stay small. However, if we find that the oysters as a whole are getting smaller over time and also getting younger , it could mean that people are harvesting them too much. When people harvest oysters heavily, they often take the larger, older ones or remove the younger one before they can grow large. This results in the oysters as a whole being both younger and smaller.
+Since environmental changes have been shown to have a strong control on shellfish populations, it is crucial to quantify their influence, when using their palaeo-ecological information to determine a long-term baseline.
+Being able to decouple both factors in the interpretation of oyster size, further improves our understanding of the sustainable use of oyster beds by pre-industrial coastal populations and emphasise their role as ecological archives in the guidance of modern economic uses of oysters.
 
 ## Describe our study
 
-Here we summarise the largest archaeological growth rate dataset to date that comprises information from over 2,000 harvested oysters dating to a ~2,000 year period between 7400  and 5600 cal BP and overlapping the Mesolithic to Neolithic transition in Denmark. 
-
-The dataset covers 19 sites from areas where wild oysters are still available (Limfjord) to areas where prehistoric coastlines are now submerged and information is coming from previously hidden sites of the Horsens Fjord.
-
-This record is a good example because it covers socioeconomic and climatic transitions.
-
-### Socioeconomic
-
-* The Danish Mesolithic period, spanning from approximately 11,000 to 5,900 calBP (calibrated years before present), is in our dataset most notably represented by the Ertebølle culture. This period was characterised by a semi-sedentary hunter-fisher-gatherer lifestyle, with communities living along dynamic coastlines and exploiting marine resources. A key feature of the Ertebølle culture was its archaeological visibility in the form of shell middens. Shell middens, large accumulations of shell debris, are a testament to the wide use of molluscs and serve as significant archaeological evidence of their lifestyle. The Ertebølle culture was distributed across the coastal areas of present-day Denmark and parts of Northern Germany and Southern Sweden.
-
-Transitioning into the Neolithic period, around 5,900 to 3,900 calBP, the Funnel Beaker culture became widespread in Denmark. Named after the characteristic shape of their pottery, this culture marked the advent of farming in Denmark. While the Funnel Beaker people continued to exploit marine resources, including shellfish, there was a noticeable shift towards agricultural practices and animal husbandry. The Funnel Beaker culture was widespread across much of Northern Europe, including present-day Denmark, Germany, and Sweden, and as far east as the Vistula River in Poland.
-
-### Environmental
-
-This period also covers dynamic environmental changes with likely impact on oyster populations ([2016 Lewis et al](2016%20Lewis%20et%20al.pdf) [2018 Larsen et al.](2018%20Larsen%20et%20al.pdf) ) as a result of sea-level changes and changes in agricultural practices. Lewis discuss salinity and temperature, which would both affect the growth rate of oysters as they can restrict the annual growing seasons. Lewis argue that higher sedimentation is a more likely scenario, for which the site Hjarnø is a good example, because here the shift coincides with sealevel changes that could have induced increased sedimentation.
-
-The transition from Mesolithic to Neolithic is often accompanied by a switch from predominantly oyster deposits to cockle deposits, called the oyster-to-cockle shift. Cultural reasons for that shift as well as overwhelming harvesting pressure on oysters have been considered (Milner 20xx?). However, an earlier occurance of the shift already during the Mesolithic (Larsen 2018) means that an environmental rather than anthropogenic reason is more likely.
-
-Because we include growth rates we are able to account for environmental factors as an influence on oyster sizes during this shift and can compare their influence to the one that harvesting pressure would have had.
-
-  
-  
+We present a comprehensive summary of the largest archaeological oyster demographic dataset to date, featuring data from over 2,000 harvested oysters, spanning a ~2,000 year period (7400-5500 cal BP; calibrated years before present) that overlaps with the Mesolithic to Neolithic transition in Denmark. The dataset covers 19 sites, including areas where wild oysters are still available (Limfjord), as well as areas where prehistoric coastlines have now been submerged.
+In addition to its wide spatial foundation, it also covers socioeconomic and environmental transitions occurring during the mid-Holocene. The Danish Mesolithic period, spanning from approximately 11,000 to 5,900 calBP, is in our dataset most notably represented by the Ertebølle culture, which was found across the coastal areas of present-day Denmark, parts of Northern Germany and Southern Sweden. This period was characterised by a semi-sedentary hunter-fisher-gatherer lifestyle, with communities living along dynamic coastlines and specialising on marine resources. The Ertebølle culture was marked by its archaeological visibility through shell middens, large accumulations of shell debris that testify to their extensive use of molluscs and offer significant evidence of their lifestyle. Transitioning into the Neolithic period, around 5,900 to 3,900 calBP, the Funnel Beaker culture became widespread across much of Northern Europe, including present-day Denmark, Germany, and Sweden, and as far east as the Vistula River in Poland. Named after the characteristic shape of their pottery, this culture marked the advent of farming in Denmark. Even though marine resources, including shellfish, continued to be exploited, there was a noticeable shift towards agricultural practices and animal husbandry. 
+Our dataset also covers dynamic environmental conditions with changes in sea-level, water-inflow from the North to the Baltic Sea, and marine transgressions with likely impact on oyster populations. These have previously been argued to affect oyster populations and cause their eventual replacement by cockles and mussels ([2016 Lewis et al](2016%20Lewis%20et%20al.pdf) [2018 Larsen et al.](2018%20Larsen%20et%20al.pdf) ), which is why this phenomenon is called the oyster-to-cockle shift. Alongside the environmental changes, cultural reasons for the shift as well as overwhelming harvesting pressure on oysters have also been considered (Milner 20xx?), since at many sites it occurs at the Mesolithic to Neolithic transition.
 
 ## Our study summary and hypotheses
-
 Our study aimed to investigate the dynamics of oyster populations and the influence of age and environmental factors. We hypothesised that the Neolithic period, characterised by reduced harvesting pressure, would lead to an increase in the age of oysters. Furthermore, we expected to observe a decrease in oyster sizes during the oyster-cockle-shift at the Mesolithic/Neolithic transition, excluding the Hjarnø region. This reduction in size could be attributed to either harvest pressure or environmental changes that made oysters less desirable. 
 
 In analyzing the results, we discovered compelling evidence of the long-term stability of sustainable oyster harvesting practices. Our findings revealed that, on average, age accounted for approximately half of the variability in oyster size. Surprisingly, we did not observe a visible oyster-cockle-shift in growth rates. However, we did identify a size shift potentially related to harvest pressure in the earliest Mesolithic layers that have not been recovered. This finding provides broad evidence of sedentism during the Mesolithic period.
@@ -299,6 +201,12 @@ Thompson et al. (2020) suggest that individual and local resource management pra
 ## European repopulation studies / (hidden conclusion) Implications for Future Oyster ecologies 
 
 Anthropogenic pressures of the industrial period have led to a significant decline in the population of the European flat oyster in the North Sea and neighbouring regions. In response, several repopulation initiatives across Europe have emerged [(2019 Pogoda)](2019%20Pogoda.pdf). These initiatives focus on aquaculture techniques, disease management, and habitat restoration. The goal of implementing these strategies is not only to reestablish the ecological role of *O. edulis*, but also to rejuvenate the oyster industry. As previously mentioned, oysters act as biofilters, habitat providers, and food sources for various marine species. Their restoration, therefore, can significantly contribute to the health of marine ecosystems, with benefits extending to other marine resources and overall food security.
+
+>[!Example] Restoration Efforts
+NORA, in particular, has undertaken various initiatives across Europe, including the UK and the Baltic Sea region. These initiatives encompass breeding programs, reef restoration projects, and disease management strategies. In the UK, a notable project is the Solent Oyster Restoration Project, which aims to restore five million oysters in the Solent straits over five years.
+The Horizon 2020 program has also funded multiple projects for oyster restoration, including the "RESTORE" project. This project seeks to rebuild self-sustaining populations of the European flat oyster across its former range. The initiative focuses on comprehensive restoration, incorporating oyster breeding, disease control, and reef construction.
+
+These initiatives underscore the importance of a multidisciplinary approach that combines ecological, social, and economic aspects to restore oyster populations effectively. It is crucial to continue such endeavors to halt and reverse the decline of oyster populations in these historically important regions, ensuring the sustainability of these ecosystems and the industries they support.
 
 With current oyster populations being in a diminished state and many previously rich environments having been removed during the last 200 years, no substantial long-term perspective exists. While long-term ecological studies of the North sea are looking into the past, they often include anecdotal evidence from the roman period or do not go beyond the last 300 years. A lack of substantial material of oyster harvests from before the period of peak-exploitation during the 1800s, is thus a large gap in our understanding of long-term resilience of these oyster-beds.
 
