@@ -1,71 +1,143 @@
-Ahmed, H. E., Nassef, O. A., & Harith, M. A. (2019). The eye of Horus viewed by the spectrochemical analytical eye of LIBS. Archaeological and Anthropological Sciences, 11(9), 5053–5063.
-Analytical Methods Committee AMCTB No. (2019). Laser-induced breakdown spectroscopy (LIBS) in cultural heritage. Analytical Methods, 11(45), 5833–5836.
-Anglos, D., & Detalle, V. (2014). Cultural Heritage Applications of LIBS. Springer Series in Optical Sciences.
-Arafat, A., Na’es, M., Kantarelou, V., Haddad, N., Giakoumaki, A., Argyropoulos, V., Anglos, D. and Karydas, A.-G. (2013). Combined in situ micro-XRF, LIBS and SEM-EDS analysis of base metal and corrosion products for Islamic copper alloyed artefacts from Umm Qais museum, Jordan. Journal of Cultural Heritage, 14(3), 261–269.
-Aramendia, J., Gómez-Nubla, L., Fdez-Ortiz de Vallejuelo, S., Castro, K., Arana, G., & Madariaga, J. M. (2019). The combination of Raman imaging and LIBS for quantification of original and degradation materials in Cultural Heritage. Journal of Raman Spectroscopy: JRS, 50(2), 193–201.
-Awasthi, S., Kumar, R., Rai, G. K., & Rai, A. K. (2016). Study of archaeological coins of different dynasties using libs coupled with multivariate analysis. Optics and Lasers in Engineering, 79, 29–38.
-Bai, X., Allègre, H., Gosselin, M., Dillmann, P., Lopez, M., Téreygeol, F., & Detalle, V. (2020). Impact of laser-induced breakdown spectroscopy implementation for the quantification of carbon content distribution in archaeological ferrous metals. Spectrochimica Acta. Part B: Atomic Spectroscopy, 172, 105964.
-Bai, X., Pin, A., Lin, J., Lopez, M., Dandolo, C. K., Richardin, P., & Detalle, V. (2019). The first evaluation of diagenesis rate of ancient bones by laser-induced breakdown spectroscopy (LIBS) in archaeological context prior to radiocarbon dating. Spectrochimica Acta. Part B: Atomic Spectroscopy.
-Beresko, C., Dietz, T., Kohns, P., & Ankerhold, G. (2014). Schnelle Materialanalyse mit Lasern. tm - Technisches Messen, 81(11), 537–545.
-Brunnbauer, L., Mayr, M., Larisegger, S., Nelhiebel, M., Pagnin, L., Wiesinger, R., Schreiner, M. and Limbeck, A. (2020). Combined LA-ICP-MS/LIBS: powerful analytical tools for the investigation of polymer alteration after treatment under corrosive conditions. Scientific Reports, 10(1), 12513.
-Cacciari, I., Agresti, J., & Siano, S. (2016). Combined THz and LIPS analysis of corroded archaeological bronzes. Microchemical Journal, Devoted to the Application of Microtechniques in All Branches of Science, 126, 76–82.
-Cáceres, J. O., Pelascini, F., Motto-Ros, V., Moncayo, S., Trichard, F., Panczer, G., Marín-Roldán, A., Cruz, J.A., Coronado, I. and Martín-Chivelet, J. (2017). Megapixel multi-elemental imaging by Laser-Induced Breakdown Spectroscopy, a technology with considerable potential for paleoclimate studies. Scientific Reports, 7(1), 5080.
-Ciucci, A., Corsi, M., Palleschi, V., Rastelli, S., Salvetti, A., & Tognoni, E. (1999). New procedure for quantitative elemental analysis by laser-induced plasma spectroscopy. Applied Spectroscopy, 53(8), 960–964.
-Cobo, A., García-Escárzaga, A., Gutiérrez-Zugasti, I., Setién, J., González-Morales, M. R., & López-Higuera, J. M. (2017). Automated Measurement of Magnesium/Calcium Ratios in Gastropod Shells Using Laser-Induced Breakdown Spectroscopy for Paleoclimatic Applications. Applied Spectroscopy, 71(4), 591–599.
-Colao, F., Fantoni, R., Ortiz, P., Vazquez, M. A., Martin, J. M., Ortiz, R., & Idris, N. (2010). Quarry identification of historical building materials by means of laser induced breakdown spectroscopy, X-ray fluorescence and chemometric analysis. Spectrochimica Acta. Part B: Atomic Spectroscopy, 65(8), 688–694.
-Cosano, D., Mateos, L. D., Jiménez-Sanchidrián, C., & Ruiz, J. R. (2017). Identification by Raman microspectroscopy of pigments in seated statues found in the Torreparedones Roman archaeological site (Baena, Spain). Microchemical Journal, Devoted to the Application of Microtechniques in All Branches of Science, 130, 191–197.
-Cremers, D. A., & Radziemski, L. J. (2006). Handbook of Laser-Induced Breakdown Spectroscopy. John Wiley & Sons.
-D’Andrea, E., Pagnotta, S., Grifoni, E., Legnaioli, S., Lorenzetti, G., Palleschi, V., & Lazzerini, B. (2015). A hybrid calibration-free/artificial neural networks approach to the quantitative analysis of LIBS spectra. Applied Physics. B, Lasers and Optics, 118(3), 353–360.
-D’Andrea, E., Pagnotta, S., Grifoni, E., Lorenzetti, G., Legnaioli, S., Palleschi, V., & Lazzerini, B. (2014). An artificial neural network approach to laser-induced breakdown spectroscopy quantitative analysis. Spectrochimica Acta. Part B: Atomic Spectroscopy, 99, 52–58.
-Detalle, V., & Bai, X. (2022). The assets of laser-induced breakdown spectroscopy (LIBS) for the future of heritage science. Spectrochimica Acta. Part B: Atomic Spectroscopy, 191, 106407.
-Fortes, F. J., Cuñat, J., Cabalín, L. M., & Laserna, J. J. (2007). In situ analytical assessment and chemical imaging of historical buildings using a man-portable laser system. Applied Spectroscopy, 61(5), 558–564.
-Frydenvang, J., Kinch, K. M., Husted, S., & Madsen, M. B. (2013). An optimized calibration procedure for determining elemental ratios using laser-induced breakdown spectroscopy. Analytical Chemistry, 85(3), 1492–1500.
-García-Escárzaga, A., Clarke, L. J., Gutiérrez-Zugasti, I., González-Morales, M. R., Martinez, M., López-Higuera, J.-M., & Cobo, A. (2018). Mg/Ca profiles within archaeological mollusc (Patella vulgata) shells: Laser-Induced Breakdown Spectroscopy compared to Inductively Coupled Plasma-Optical Emission Spectrometry. Spectrochimica Acta. Part B: Atomic Spectroscopy, 148, 8–15.
-Gaudiuso, R., Dell’Aglio, M., De Pascale, O., Loperfido, S., Mangone, A., & De Giacomo, A. (2014). Laser-induced breakdown spectroscopy of archaeological findings with calibration-free inverse method: Comparison with classical laser-induced breakdown spectroscopy and conventional techniques. Analytica Chimica Acta, 813, 15–24.
-Gaudiuso, R., Uhlir, K., & Griesser, M. (2019). Micro-invasive depth profile analysis by laser-induced breakdown spectroscopy (LIBS): the case of mercury layers on Sasanian coins. Journal of Analytical Atomic Spectrometry, 34(11), 2261–2272.
-Genc Oztoprak, B., Sinmaz, M. A., & Tülek, F. (2016). Composition analysis of medieval ceramics by laser-induced breakdown spectroscopy (LIBS). Applied Physics A: Materials Science & Processing, 122(5).
-Giakoumaki, A., Melessanaki, K., & Anglos, D. (2007). Laser-induced breakdown spectroscopy (LIBS) in archaeological science–applications and prospects. Analytical and Bioanalytical Chemistry, 387(3), 749–760.
-Giakoumaki, A., Osticioli, I., & Anglos, D. (2006). Spectroscopic analysis using a hybrid LIBS-Raman system. Applied Physics A: Materials Science & Processing, 83(4), 537–541.
-Hausmann, N., Prendergast, A. L., Lemonis, A., Zech, J., Roberts, P., Siozos, P., & Anglos, D. (2019). Extensive elemental mapping unlocks Mg/Ca ratios as climate proxy in seasonal records of Mediterranean limpets. Scientific Reports, 9(1), 3698.
-Hausmann, N., Siozos, P., & Lemonis, A. (2017). Elemental mapping of Mg/Ca intensity ratios in marine mollusc shells using laser-induced breakdown spectroscopy. Journal of Analytical Atomic Spectroscopy
-Hegewisch, & Daszkiewicz. (2021). Using pXRF for the analysis of ancient pottery. Topoi: Berlin Studies of the ancient world.
-Hoehse, M., Paul, A., Gornushkin, I., & Panne, U. (2012). Multivariate classification of pigments and inks using combined Raman spectroscopy and LIBS. Analytical and Bioanalytical Chemistry, 402(4), 1443–1450.
-Hu, Z., Zhang, D., Wang, W., Chen, F., Xu, Y., Nie, J., Chu, Y. and Guo, L. (2022). A review of calibration-free laser-induced breakdown spectroscopy. Trends in Analytical Chemistry: TRAC, 152, 116618.
-Kearton, B., & Mattley, Y. (2008). Sparking new applications. Nature Photonics, 2(9), 537–540.
-Kramer, K., & Jenisch, B. (2022). Die Bürgli-Glocke Baden-Württembergs älteste kirchenglocke. Denkmalpfl. in Baden-Württemberg, 50(3), 202–209.
-Kuhn, K., Goldmann, S., Rammlmair, D., Goldmann, D., & Qiu, H. (2022). Quantitative metal and metaloid distribution in primary and secondary phases in historical lead-silver smelting slags from Rammelsberg ore deposit (Germany) and implications for their recovery. Journal of Geochemical Exploration, 240, 107044.
-Laforce, B., Fiers, G., Vandendriessche, H., Crombé, P., Cnudde, V., & Vincze, L. (2021). Monte Carlo Simulation Aided Quantitative Laboratory X-ray Fluorescence Analysis and Its Application in Provenancing Studies for Geo-Archeological Samples. Analytical Chemistry, 93(8), 3898–3904.
-Lasheras, R.-J., Anzano, J., Bello-Gálvez, C., Escudero, M., & Cáceres, J. (2017). Quantitative Analysis of Roman Archeological Ceramics by Laser-Induced Breakdown Spectroscopy. Analytical Letters, 50(8), 1325–1334.
-Limbeck, A., Brunnbauer, L., Lohninger, H., Pořízka, P., Modlitbová, P., Kaiser, J., Janovszky, P., Kéri, A. and Galbács, G. (2021). Methodology and applications of elemental mapping by laser induced breakdown spectroscopy. Analytica Chimica Acta, 1147, 72–98.
-Li, Y., Tian, D., Ding, Y., Yang, G., Liu, K., Wang, C., & Han, X. (2018). A review of laser-induced breakdown spectroscopy signal enhancement. Applied Spectroscopy Reviews, 53(1), 1–35.
-Madkour, F., Imam, H., Elsayed, K., & Meheina, G. (2015). Elemental analysis study of glazes and ceramic bodies from Mamluk and Ottoman periods in Egypt by Laser-Induced Breakdown Spectroscopy (LIBS). Periodico Di Mineralogia, 84(1), 107–121.
-Pollard, A., & Heron, C. (2015). Archaeological Chemistry. Royal Society of Chemistry.
-Marpaung, A. M., Harefa, E., Pardede, M., Karnadi, I., Hedwig, R., Tanra, I., Suliyanti, M.M., Lie, Z.S., Shiddiq, M., Ramli, M. and Kagawa, K. (2022). Simple defocus laser irradiation to suppress self-absorption in laser-induced breakdown spectroscopy (LIBS). Heliyon, 8(8), e10057.
-Melessanaki, K., Mateo, M., Ferrence, S. C., Betancourt, P. P., & Anglos, D. (2002). The application of LIBS for the analysis of archaeological ceramic and metal artifacts. Applied Surface Science, 197-198, 156–163.
-Nevin, A., Spoto, G., & Anglos, D. (2012). Laser spectroscopies for elemental and molecular analysis in art and archaeology. Applied Physics A: Materials Science & Processing, 106(2), 339–361.
-Ortiz, P., Vázquez, M. A., Ortiz, R., Martin, J. M., Ctvrtnickova, T., Mateo, M. P., & Nicolas, G. (2010). Investigation of environmental pollution effects on stone monuments in the case of Santa Maria La Blanca, Seville (Spain). Applied Physics A: Materials Science & Processing, 100(3), 965–973.
-Osticioli, I., Mendes, N. F. C., Porcinai, S., Cagnini, A., & Castellucci, E. (2009). Spectroscopic analysis of works of art using a single LIBS and pulsed Raman setup. Analytical and Bioanalytical Chemistry, 394(4), 1033–1041.
-Palomar, T., Oujja, M., García-Heras, M., Villegas, M. A., & Castillejo, M. (2013). Laser induced breakdown spectroscopy for analysis and characterization of degradation pathologies of Roman glasses. Spectrochimica Acta. Part B: Atomic Spectroscopy, 87, 114–120.
-Pořízka, P., Klus, J., Képeš, E., Prochazka, D., Hahn, D. W., & Kaiser, J. (2018). On the utilization of principal component analysis in laser-induced breakdown spectroscopy data analysis, a review. Spectrochimica Acta. Part B: Atomic Spectroscopy.
-Price, T. D., & Burton, J. H. (2010). An Introduction to Archaeological Chemistry. Springer Science & Business Media.
-Qi, J., Zhang, T., Tang, H., & Li, H. (2018). Rapid classification of archaeological ceramics via laser-induced breakdown spectroscopy coupled with random forest. Spectrochimica Acta. Part B: Atomic Spectroscopy, 149, 288–293.
-Qu, L., Zhang, X., Duan, H., Zhang, R., Li, G., & Lei, Y. (2017). The application of LIBS and other techniques on Chinese low temperature glaze. MRS Advances, 2(39-40), 2081–2094.
-Rai, S. S., Rai, N. K., Rai, A. K., & Chattopadhyaya, U. C. (2016). Rare earth elements analysis in archaeological pottery by laser induced breakdown spectroscopy. Spectroscopy Letters, 49(2), 57–62.
-Rakovský, J., Čermák, P., Musset, O., & Veis, P. (2014). A review of the development of portable laser induced breakdown spectroscopy and its applications. Spectrochimica Acta. Part B: Atomic Spectroscopy, 101, 269–287.
-Ramil, A., López, A. J., & Yáñez, A. (2008). Application of artificial neural networks for the rapid classification of archaeological ceramics by means of laser induced breakdown spectroscopy (LIBS). Applied Physics A: Materials Science & Processing, 92(1), 197–202.
-Riehle, K., Kistler, E., Öhlinger, B., Heitz, C., Ben-Shlomo, D., Jung, R., Mommsen, H., Sterba, J. H., Gimatzidis, S., Fantalkin, A., Prillwitz, S., Hein, A., Geissler, L., Lehmann, G., Kindberg Jacobsen, J., Posamentir, R., & Schlotzhauer, U. (2023). Neutron activation analysis in Mediterranean Archaeology: current applications and future perspectives. Archaeological and Anthropological Sciences, 15(3), 25. https://doi.org/10.1007/s12520-023-01728-1
-Ruan, F., Hou, L., Zhang, T., & Li, H. (2020). A modified backward elimination approach for the rapid classification of Chinese ceramics using laser-induced breakdown spectroscopy and chemometrics. Journal of Analytical Atomic Spectrometry, 35(3), 518–525.
-Schürch, B., Wettengl, S., Fröhle, S., Conard, N., & Schmidt, P. (2022). The origin of chert in the Aurignacian of Vogelherd Cave investigated by infrared spectroscopy. PloS One, 17(8), e0272988.
-Sheng, L., Zhang, T., Niu, G., Wang, K., Tang, H., Duan, Y., & Li, H. (2015). Classification of iron ores by laser-induced breakdown spectroscopy (LIBS) combined with random forest (RF). Journal of Analytical Atomic Spectrometry, 30(2), 453–458.
-Siozos, P., Hausmann, N., Holst, M., & Anglos, D. (2021). Application of laser-induced breakdown spectroscopy and neural networks on archaeological human bones for the discrimination of distinct individuals. Journal of Archaeological Science: Reports, 35, 102769
-S. Katsifas, C., & A. Zachariadis, G. (2019). EDXRF Spectrometry and Complementary Non-Destructive Analytical Techniques in the Archaeometric Study of Copper Artefacts. Current Analytical Chemistry, 15(7), 776–787.
-Syta, O., Wagner, B., Bulska, E., Zielińska, D., Żukowska, G. Z., Gonzalez, J., & Russo, R. (2018). Elemental imaging of heterogeneous inorganic archaeological samples by means of simultaneous laser induced breakdown spectroscopy and laser ablation inductively coupled plasma mass spectrometry measurements. Talanta, 179, 784–791.
-Syvilay, D., Texier, A., Arles, A., Gratuze, B., Wilkie-Chancellier, N., Martinez, L., Serfaty, S. and Detalle, V. (2015). Trace element quantification of lead based roof sheets of historical monuments by Laser Induced Breakdown Spectroscopy. Spectrochimica Acta. Part B: Atomic Spectroscopy, 103-104, 34–42.
-Tankova, V., Blagoev, K., Grozeva, M., Malcheva, G., & Penkova, P. (2016). Qualitative and quantitative laser-induced breakdown spectroscopy of bronze objects. Journal of Physics. Conference Series, 700(1), 012003.
-Tognoni, E., Cristoforetti, G., Legnaioli, S., & Palleschi, V. (2010). Calibration-Free Laser-Induced Breakdown Spectroscopy: State of the art. Spectrochimica Acta. Part B: Atomic Spectroscopy, 65(1), 1–14.
-Veneranda, M., Prieto-Taboada, N., Costantini, I., De Francesco, A. M., Castro, K., Madariaga, J. M., & Arana, G. (2022, March 18). Portable XRF and Libs Combined with Chemometrics: A Novel Method for the In-Situ Geochemical Sourcing of Obsidian Artefacts.
-Vítková, G., Prokeš, L., Novotný, K., Pořízka, P., Novotný, J., Všianský, D., Čelko, L. and Kaiser, J. (2014). Comparative study on fast classification of brick samples by combination of principal component analysis and linear discriminant analysis using stand-off and table-top laser-induced breakdown spectroscopy. Spectrochimica Acta. Part B: Atomic Spectroscopy, 101, 191–199.
-Wagner, G. A. (2008). Einführung in die Archäometrie. Berlin: Springer-Verlag.
-Wallace, S., Smith, N., & Nerantzis, N. (2021). Handheld methods in archaeological research on large copper alloy assemblages: HH‐XRF against HH‐LIBS. Archaeometry, 63(2), 343–371.
-Westlake, P., Siozos, P., Philippidis, A., Apostolaki, C., Derham, B., Terlixi, A., Perdikatsis, V., Jones, R. and Anglos, D. (2012). Studying pigments on painted plaster in Minoan, Roman and early Byzantine Crete. A multi-analytical technique approach. Analytical and Bioanalytical Chemistry, 402(4), 1413–1432.
-Zhang, T., Wu, S., Dong, J., Wei, J., Wang, K., Tang, H., Yang, X. and Li, H. (2015). Quantitative and classification analysis of slag samples by laser induced breakdown spectroscopy (LIBS) coupled with support vector machine (SVM) and partial least square (PLS) methods. Journal of Analytical Atomic Spectrometry, 30(2), 368–374.
+Ahmed, H. E., Nassef, O. A., & Harith, M. A. (2019). The eye of Horus viewed by the spectrochemical analytical eye of LIBS. *Archaeological and Anthropological Sciences*, 11(9), 5053–5063.
+
+Analytical Methods Committee AMCTB No. (2019). Laser-induced breakdown spectroscopy (LIBS) in cultural heritage. *Analytical Methods*, 11(45), 5833–5836.
+
+Anglos, D., & Detalle, V. (2014). Cultural heritage applications of LIBS. *Laser-Induced Breakdown Spectroscopy: Theory and Applications*, 531-554
+
+Arafat, A., Na’es, M., Kantarelou, V., Haddad, N., Giakoumaki, A., Argyropoulos, V., Anglos, D. and Karydas, A.-G. (2013). Combined in situ micro-XRF, LIBS and SEM-EDS analysis of base metal and corrosion products for Islamic copper alloyed artefacts from Umm Qais museum, Jordan. *Journal of Cultural Heritage*, 14(3), 261–269.
+
+Aramendia, J., Gómez-Nubla, L., Fdez-Ortiz de Vallejuelo, S., Castro, K., Arana, G., & Madariaga, J. M. (2019). The combination of Raman imaging and LIBS for quantification of original and degradation materials in Cultural Heritage. *Journal of Raman Spectroscopy: JRS*, 50(2), 193–201.
+
+Awasthi, S., Kumar, R., Rai, G. K., & Rai, A. K. (2016). Study of archaeological coins of different dynasties using libs coupled with multivariate analysis. *Optics and Lasers in Engineering*, 79, 29–38.
+
+Bai, X., Allègre, H., Gosselin, M., Dillmann, P., Lopez, M., Téreygeol, F., & Detalle, V. (2020). Impact of laser-induced breakdown spectroscopy implementation for the quantification of carbon content distribution in archaeological ferrous metals. *Spectrochimica Acta. Part B: Atomic Spectroscopy*, 172, 105964.
+
+Bai, X., Pin, A., Lin, J., Lopez, M., Dandolo, C. K., Richardin, P., & Detalle, V. (2019). The first evaluation of diagenesis rate of ancient bones by laser-induced breakdown spectroscopy (LIBS) in archaeological context prior to radiocarbon dating. *Spectrochimica Acta. Part B: Atomic Spectroscopy*, 158, 105606.
+
+Beresko, C., Dietz, T., Kohns, P., & Ankerhold, G. (2014). Schnelle Materialanalyse mit Lasern. *tm - Technisches Messen*, 81(11), 537–545.
+
+Brunnbauer, L., Mayr, M., Larisegger, S., Nelhiebel, M., Pagnin, L., Wiesinger, R., Schreiner, M. and Limbeck, A. (2020). Combined LA-ICP-MS/LIBS: powerful analytical tools for the investigation of polymer alteration after treatment under corrosive conditions. *Scientific Reports*, 10(1), 12513.
+
+Cacciari, I., Agresti, J., & Siano, S. (2016). Combined THz and LIPS analysis of corroded archaeological bronzes. *Microchemical Journal, Devoted to the Application of Microtechniques in All Branches of Science*, 126, 76–82.
+
+Cáceres, J. O., Pelascini, F., Motto-Ros, V., Moncayo, S., Trichard, F., Panczer, G., Marín-Roldán, A., Cruz, J.A., Coronado, I. and Martín-Chivelet, J. (2017). Megapixel multi-elemental imaging by Laser-Induced Breakdown Spectroscopy, a technology with considerable potential for paleoclimate studies. *Scientific Reports*, 7(1), 5080.
+
+Ciucci, A., Corsi, M., Palleschi, V., Rastelli, S., Salvetti, A., & Tognoni, E. (1999). New procedure for quantitative elemental analysis by laser-induced plasma spectroscopy. *Applied Spectroscopy*, 53(8), 960–964.
+
+Cobo, A., García-Escárzaga, A., Gutiérrez-Zugasti, I., Setién, J., González-Morales, M. R., & López-Higuera, J. M. (2017). Automated Measurement of Magnesium/Calcium Ratios in Gastropod Shells Using Laser-Induced Breakdown Spectroscopy for Paleoclimatic Applications. *Applied Spectroscopy*, 71(4), 591–599.
+
+Colao, F., Fantoni, R., Ortiz, P., Vazquez, M. A., Martin, J. M., Ortiz, R., & Idris, N. (2010). Quarry identification of historical building materials by means of laser induced breakdown spectroscopy, X-ray fluorescence and chemometric analysis. *Spectrochimica Acta. Part B: Atomic Spectroscopy*, 65(8), 688–694.
+
+Cosano, D., Mateos, L. D., Jiménez-Sanchidrián, C., & Ruiz, J. R. (2017). Identification by Raman microspectroscopy of pigments in seated statues found in the Torreparedones Roman archaeological site (Baena, Spain). *Microchemical Journal, Devoted to the Application of Microtechniques in All Branches of Science*, 130, 191–197.
+
+Cremers, D. A., & Radziemski, L. J. (2006). *Handbook of Laser-Induced Breakdown Spectroscopy*. John Wiley & Sons.
+
+D’Andrea, E., Pagnotta, S., Grifoni, E., Legnaioli, S., Lorenzetti, G., Palleschi, V., & Lazzerini, B. (2015). A hybrid calibration-free/artificial neural networks approach to the quantitative analysis of LIBS spectra. *Applied Physics. B, Lasers and Optics*, 118(3), 353–360.
+
+D’Andrea, E., Pagnotta, S., Grifoni, E., Lorenzetti, G., Legnaioli, S., Palleschi, V., & Lazzerini, B. (2014). An artificial neural network approach to laser-induced breakdown spectroscopy quantitative analysis. *Spectrochimica Acta. Part B: Atomic Spectroscopy*, 99, 52–58.
+
+Detalle, V., & Bai, X. (2022). The assets of laser-induced breakdown spectroscopy (LIBS) for the future of heritage science. *Spectrochimica Acta. Part B: Atomic Spectroscopy*, 191, 106407.
+
+Fortes, F. J., Cuñat, J., Cabalín, L. M., & Laserna, J. J. (2007). In situ analytical assessment and chemical imaging of historical buildings using a man-portable laser system. *Applied Spectroscopy*, 61(5), 558–564.
+
+Frydenvang, J., Kinch, K. M., Husted, S., & Madsen, M. B. (2013). An optimized calibration procedure for determining elemental ratios using laser-induced breakdown spectroscopy. *Analytical Chemistry*, 85(3), 1492–1500.
+
+García-Escárzaga, A., Clarke, L. J., Gutiérrez-Zugasti, I., González-Morales, M. R., Martinez, M., López-Higuera, J.-M., & Cobo, A. (2018). Mg/Ca profiles within archaeological mollusc (Patella vulgata) shells: Laser-Induced Breakdown Spectroscopy compared to Inductively Coupled Plasma-Optical Emission Spectrometry. *Spectrochimica Acta. Part B: Atomic Spectroscopy*, 148, 8–15.
+
+Gaudiuso, R., Dell’Aglio, M., De Pascale, O., Loperfido, S., Mangone, A., & De Giacomo, A. (2014). Laser-induced breakdown spectroscopy of archaeological findings with calibration-free inverse method: Comparison with classical laser-induced breakdown spectroscopy and conventional techniques. *Analytica Chimica Acta*, 813, 15–24.
+
+Gaudiuso, R., Uhlir, K., & Griesser, M. (2019). Micro-invasive depth profile analysis by laser-induced breakdown spectroscopy (LIBS): the case of mercury layers on Sasanian coins. *Journal of Analytical Atomic Spectrometry*, 34(11), 2261–2272.
+
+Genc Oztoprak, B., Sinmaz, M. A., & Tülek, F. (2016). Composition analysis of medieval ceramics by laser-induced breakdown spectroscopy (LIBS). *Applied Physics A: Materials Science & Processing*, 122(5).
+
+Giakoumaki, A., Melessanaki, K., & Anglos, D. (2007). Laser-induced breakdown spectroscopy (LIBS) in archaeological science–applications and prospects. *Analytical and Bioanalytical Chemistry*, 387(3), 749–760.
+
+Giakoumaki, A., Osticioli, I., & Anglos, D. (2006). Spectroscopic analysis using a hybrid LIBS-Raman system. *Applied Physics A: Materials Science & Processing*, 83(4), 537–541.
+
+Hausmann, N., Prendergast, A. L., Lemonis, A., Zech, J., Roberts, P., Siozos, P., & Anglos, D. (2019). Extensive elemental mapping unlocks Mg/Ca ratios as climate proxy in seasonal records of Mediterranean limpets. *Scientific Reports*, 9(1), 3698.
+
+Hausmann, N., Siozos, P., & Lemonis, A. (2017). Elemental mapping of Mg/Ca intensity ratios in marine mollusc shells using laser-induced breakdown spectroscopy. *Journal of Analytical Atomic Spectroscopy*
+
+Hegewisch, & Daszkiewicz. (2021). Using pXRF for the analysis of ancient pottery. *Topoi: Berlin Studies of the ancient world*.
+
+Hoehse, M., Paul, A., Gornushkin, I., & Panne, U. (2012). Multivariate classification of pigments and inks using combined Raman spectroscopy and LIBS. *Analytical and Bioanalytical Chemistry*, 402(4), 1443–1450.
+
+Hu, Z., Zhang, D., Wang, W., Chen, F., Xu, Y., Nie, J., Chu, Y. and Guo, L. (2022). A review of calibration-free laser-induced breakdown spectroscopy. *Trends in Analytical Chemistry: TRAC*, 152, 116618.
+
+Kearton, B., & Mattley, Y. (2008). Sparking new applications. *Nature Photonics*, 2(9), 537–540.
+
+Kramer, K., & Jenisch, B. (2022). Die Bürgli-Glocke Baden-Württembergs älteste kirchenglocke. *Denkmalpfl. in Baden-Württemberg*, 50(3), 202–209.
+
+Kuhn, K., Goldmann, S., Rammlmair, D., Goldmann, D., & Qiu, H. (2022). Quantitative metal and metaloid distribution in primary and secondary phases in historical lead-silver smelting slags from Rammelsberg ore deposit (Germany) and implications for their recovery. *Journal of Geochemical Exploration*, 240, 107044.
+
+Laforce, B., Fiers, G., Vandendriessche, H., Crombé, P., Cnudde, V., & Vincze, L. (2021). Monte Carlo Simulation Aided Quantitative Laboratory X-ray Fluorescence Analysis and Its Application in Provenancing Studies for Geo-Archeological Samples. *Analytical Chemistry*, 93(8), 3898–3904.
+
+Lasheras, R.-J., Anzano, J., Bello-Gálvez, C., Escudero, M., & Cáceres, J. (2017). Quantitative Analysis of Roman Archeological Ceramics by Laser-Induced Breakdown Spectroscopy. *Analytical Letters*, 50(8), 1325–1334.
+
+Limbeck, A., Brunnbauer, L., Lohninger, H., Pořízka, P., Modlitbová, P., Kaiser, J., Janovszky, P., Kéri, A. and Galbács, G. (2021). Methodology and applications of elemental mapping by laser induced breakdown spectroscopy. *Analytica Chimica Acta*, 1147, 72–98.
+
+Li, Y., Tian, D., Ding, Y., Yang, G., Liu, K., Wang, C., & Han, X. (2018). A review of laser-induced breakdown spectroscopy signal enhancement. *Applied Spectroscopy Reviews*, 53(1), 1–35.
+
+Madkour, F., Imam, H., Elsayed, K., & Meheina, G. (2015). Elemental analysis study of glazes and ceramic bodies from Mamluk and Ottoman periods in Egypt by Laser-Induced Breakdown Spectroscopy (LIBS). *Periodico Di Mineralogia*, 84(1), 107–121.
+
+Pollard, A., & Heron, C. (2015). *Archaeological Chemistry*. Royal Society of Chemistry.
+
+Marpaung, A. M., Harefa, E., Pardede, M., Karnadi, I., Hedwig, R., Tanra, I., Suliyanti, M.M., Lie, Z.S., Shiddiq, M., Ramli, M. and Kagawa, K. (2022). Simple defocus laser irradiation to suppress self-absorption in laser-induced breakdown spectroscopy (LIBS). *Heliyon*, 8(8), e10057.
+
+Melessanaki, K., Mateo, M., Ferrence, S. C., Betancourt, P. P., & Anglos, D. (2002). The application of LIBS for the analysis of archaeological ceramic and metal artifacts. *Applied Surface Science*, 197-198, 156–163.
+
+Nevin, A., Spoto, G., & Anglos, D. (2012). Laser spectroscopies for elemental and molecular analysis in art and archaeology. *Applied Physics A: Materials Science & Processing*, 106(2), 339–361.
+
+Ortiz, P., Vázquez, M. A., Ortiz, R., Martin, J. M., Ctvrtnickova, T., Mateo, M. P., & Nicolas, G. (2010). Investigation of environmental pollution effects on stone monuments in the case of Santa Maria La Blanca, Seville (Spain). *Applied Physics A: Materials Science & Processing*, 100(3), 965–973.
+
+Osticioli, I., Mendes, N. F. C., Porcinai, S., Cagnini, A., & Castellucci, E. (2009). Spectroscopic analysis of works of art using a single LIBS and pulsed Raman setup. *Analytical and Bioanalytical Chemistry*, 394(4), 1033–1041.
+
+Palomar, T., Oujja, M., García-Heras, M., Villegas, M. A., & Castillejo, M. (2013). Laser induced breakdown spectroscopy for analysis and characterization of degradation pathologies of Roman glasses. *Spectrochimica Acta. Part B: Atomic Spectroscopy*, 87, 114–120.
+
+Pořízka, P., Klus, J., Képeš, E., Prochazka, D., Hahn, D. W., & Kaiser, J. (2018). On the utilization of principal component analysis in laser-induced breakdown spectroscopy data analysis, a review. *Spectrochimica Acta. Part B: Atomic Spectroscopy*.
+
+Price, T. D., & Burton, J. H. (2010). *An Introduction to Archaeological Chemistry*. Springer Science & Business Media.
+
+Qi, J., Zhang, T., Tang, H., & Li, H. (2018). Rapid classification of archaeological ceramics via laser-induced breakdown spectroscopy coupled with random forest. *Spectrochimica Acta. Part B: Atomic Spectroscopy*, 149, 288–293.
+
+Qu, L., Zhang, X., Duan, H., Zhang, R., Li, G., & Lei, Y. (2017). The application of LIBS and other techniques on Chinese low temperature glaze. *MRS Advances*, 2(39-40), 2081–2094.
+
+Rai, S. S., Rai, N. K., Rai, A. K., & Chattopadhyaya, U. C. (2016). Rare earth elements analysis in archaeological pottery by laser induced breakdown spectroscopy. *Spectroscopy Letters*, 49(2), 57–62.
+
+Rakovský, J., Čermák, P., Musset, O., & Veis, P. (2014). A review of the development of portable laser induced breakdown spectroscopy and its applications. *Spectrochimica Acta. Part B: Atomic Spectroscopy*, 101, 269–287.
+
+Ramil, A., López, A. J., & Yáñez, A. (2008). Application of artificial neural networks for the rapid classification of archaeological ceramics by means of laser induced breakdown spectroscopy (LIBS). *Applied Physics A: Materials Science & Processing*, 92(1), 197–202.
+
+ 
+
+Riehle, K., Kistler, E., Öhlinger, B., Heitz, C., Ben-Shlomo, D., Jung, R., Mommsen, H., Sterba, J. H., Gimatzidis, S., Fantalkin, A., Prillwitz, S., Hein, A., Geissler, L., Lehmann, G., Kindberg Jacobsen, J., Posamentir, R., & Schlotzhauer, U. (2023). Neutron activation analysis in Mediterranean Archaeology: current applications and future perspectives. *Archaeological and Anthropological Sciences*, 15(3), 25. https://doi.org/10.1007/s12520-023-01728-1
+
+Ruan, F., Hou, L., Zhang, T., & Li, H. (2020). A modified backward elimination approach for the rapid classification of Chinese ceramics using laser-induced breakdown spectroscopy and chemometrics. *Journal of Analytical Atomic Spectrometry*, 35(3), 518–525.
+
+Schürch, B., Wettengl, S., Fröhle, S., Conard, N., & Schmidt, P. (2022). The origin of chert in the Aurignacian of Vogelherd Cave investigated by infrared spectroscopy. *PloS One*, 17(8), e0272988.
+
+Sheng, L., Zhang, T., Niu, G., Wang, K., Tang, H., Duan, Y., & Li, H. (2015). Classification of iron ores by laser-induced breakdown spectroscopy (LIBS) combined with random forest (RF). *Journal of Analytical Atomic Spectrometry*, 30(2), 453–458.
+
+Siozos, P., Hausmann, N., Holst, M., & Anglos, D. (2021). Application of laser-induced breakdown spectroscopy and neural networks on archaeological human bones for the discrimination of distinct individuals. *Journal of Archaeological Science: Reports, 35, 102769*
+
+S. Katsifas, C., & A. Zachariadis, G. (2019). EDXRF Spectrometry and Complementary Non-Destructive Analytical Techniques in the Archaeometric Study of Copper Artefacts. *Current Analytical Chemistry*, 15(7), 776–787.
+
+Syta, O., Wagner, B., Bulska, E., Zielińska, D., Żukowska, G. Z., Gonzalez, J., & Russo, R. (2018). Elemental imaging of heterogeneous inorganic archaeological samples by means of simultaneous laser induced breakdown spectroscopy and laser ablation inductively coupled plasma mass spectrometry measurements. *Talanta*, 179, 784–791.
+
+Syvilay, D., Texier, A., Arles, A., Gratuze, B., Wilkie-Chancellier, N., Martinez, L., Serfaty, S. and Detalle, V. (2015). Trace element quantification of lead based roof sheets of historical monuments by Laser Induced Breakdown Spectroscopy. *Spectrochimica Acta. Part B: Atomic Spectroscopy*, 103-104, 34–42.
+
+Tankova, V., Blagoev, K., Grozeva, M., Malcheva, G., & Penkova, P. (2016). Qualitative and quantitative laser-induced breakdown spectroscopy of bronze objects. *Journal of Physics. Conference Series*, 700(1), 012003.
+
+Tognoni, E., Cristoforetti, G., Legnaioli, S., & Palleschi, V. (2010). Calibration-Free Laser-Induced Breakdown Spectroscopy: State of the art. *Spectrochimica Acta. Part B: Atomic Spectroscopy*, 65(1), 1–14.
+
+Veneranda, M., Prieto-Taboada, N., Costantini, I., De Francesco, A. M., Castro, K., Madariaga, J. M., & Arana, G. (2022, March 18). *Portable XRF and Libs Combined with Chemometrics: A Novel Method for the In-Situ Geochemical Sourcing of Obsidian Artefacts*.
+
+Vítková, G., Prokeš, L., Novotný, K., Pořízka, P., Novotný, J., Všianský, D., Čelko, L. and Kaiser, J. (2014). Comparative study on fast classification of brick samples by combination of principal component analysis and linear discriminant analysis using stand-off and table-top laser-induced breakdown spectroscopy. *Spectrochimica Acta. Part B: Atomic Spectroscopy*, 101, 191–199.
+
+Wagner, G. A. (2008). *Einführung in die Archäometrie*. Berlin: Springer-Verlag.
+
+Wallace, S., Smith, N., & Nerantzis, N. (2021). Handheld methods in archaeological research on large copper alloy assemblages: HH‐XRF against HH‐LIBS. *Archaeometry*, 63(2), 343–371.
+
+Westlake, P., Siozos, P., Philippidis, A., Apostolaki, C., Derham, B., Terlixi, A., Perdikatsis, V., Jones, R. and Anglos, D. (2012). Studying pigments on painted plaster in Minoan, Roman and early Byzantine Crete. A multi-analytical technique approach. *Analytical and Bioanalytical Chemistry*, 402(4), 1413–1432.
+
+Zhang, T., Wu, S., Dong, J., Wei, J., Wang, K., Tang, H., Yang, X. and Li, H. (2015). Quantitative and classification analysis of slag samples by laser induced breakdown spectroscopy (LIBS) coupled with support vector machine (SVM) and partial least square (PLS) methods. *Journal of Analytical Atomic Spectrometry*, 30(2), 368–374.
